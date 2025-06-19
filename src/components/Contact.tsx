@@ -35,8 +35,8 @@ const Contact = () => {
     {
       icon: <Mail className="h-6 w-6" />,
       label: 'Email',
-      value: 'kavi@example.com',
-      link: 'mailto:kavi@example.com'
+      value: 'christin@example.com',
+      link: 'mailto:christin@example.com'
     },
     {
       icon: <Phone className="h-6 w-6" />,
@@ -56,13 +56,13 @@ const Contact = () => {
     {
       icon: <Linkedin className="h-6 w-6" />,
       label: 'LinkedIn',
-      url: 'https://linkedin.com/in/kaviyarasu16',
+      url: 'https://linkedin.com/in/christinsibi',
       color: 'hover:text-blue-600'
     },
     {
       icon: <Twitter className="h-6 w-6" />,
       label: 'Twitter',
-      url: 'https://twitter.com/kavi',
+      url: 'https://twitter.com/christin',
       color: 'hover:text-blue-400'
     },
     {
