@@ -22,7 +22,7 @@ const Hero = () => {
         </h1>
         
         <p className="text-xl md:text-2xl text-gray-600 mb-12 max-w-3xl mx-auto leading-relaxed">
-          I'm Kaviyarasu Palanisamy, a UI/UX designer passionate about creating intuitive, 
+          I'm Christin Sibi, a UI/UX designer passionate about creating intuitive, 
           beautiful interfaces that solve real problems and delight users.
         </p>
         
