@@ -25,7 +25,7 @@ pipeline {
         sh '''
           cd /home/ubuntu/jenkins/deployment/
           docker rm -f portfolio || true
-          docker run -d -p --name portfolio 3000:3000 portfolio:latest
+          docker run -d --name portfolio -p 3000:3000 portfolio:latest
     '''
       }
     }
